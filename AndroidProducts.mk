@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_perseus.mk
+    $(LOCAL_DIR)/dot_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_perseus-user \
-    potato_perseus-userdebug \
-    potato_perseus-eng
+    dot_perseus-user \
+    dot_perseus-userdebug \
+    dot_perseus-eng
